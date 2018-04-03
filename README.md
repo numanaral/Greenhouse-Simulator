@@ -1,5 +1,5 @@
 # Greenhouse-Simulator
-Live temp calculator
+- Live temp calculator
 
 <b> How to run </b>  
 (Paste the following into the cd prompt)  
